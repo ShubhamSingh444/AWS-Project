@@ -1,15 +1,13 @@
 # AWS-Project
 
-Static Website
+**Static Website**
 A static website is a collection of web pages that are delivered to the user's web browser exactly as stored. These web pages are written in HTML, CSS, and JavaScript and are pre-designed before being deployed to a web server. Unlike dynamic websites, static websites do not contain server-side processing logic or database interactions. They are suitable for content that does not change frequently, such as company brochures, portfolios, or blogs with infrequent updates.
 
-EC2
+**EC2**
 EC2 stands for Elastic Compute Cloud, which is a web service provided by Amazon Web Services (AWS) that allows users to rent virtual servers called instances. These instances provide scalable compute capacity in the cloud and can be configured with various operating systems, applications, and network configurations. EC2 instances are commonly used for hosting websites, running applications, performing data processing tasks, and more.
 
-Apache HTTP Server
+**Apache HTTP Server**
 HTTPD, or the Apache HTTP Server, is an open-source web server software developed and maintained by the Apache Software Foundation. It is one of the most widely used web server software in the world. HTTPD is capable of serving static and dynamic content over the HTTP protocol and is highly extensible through modules. It supports various features such as virtual hosting, SSL/TLS encryption, URL rewriting, and more. HTTPD is commonly used to host websites and web applications on servers.
-
-
 
 Deploying a static website using AWS EC2 Instance 
 
